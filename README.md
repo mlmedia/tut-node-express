@@ -1,5 +1,5 @@
 #  Tutorial for NodeJS and Express
-Tutorial for NodeJS and Express.  Tutorial origin unknown but repo can be found here: [https://github.com/GainorB/node-auth-jwt](https://github.com/GainorB/node-auth-jwt).
+Tutorial for NodeJS and Express. Not completely sure about tutorial link, but maybe this: [https://www.codementor.io/@olawalealadeusi896/building-a-simple-api-with-nodejs-expressjs-postgresql-db-and-jwt-3-mke10c5c5](https://www.codementor.io/@olawalealadeusi896/building-a-simple-api-with-nodejs-expressjs-postgresql-db-and-jwt-3-mke10c5c5)
 
 
 ## NOTE
